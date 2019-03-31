@@ -1,0 +1,30 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+group = 'br.com.codenation'
+version = '1.0'
+mainClassName = 'br.com.codenation.DesafioApplicationRunner'
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+
+task desafio(type: JavaExec) {
+  classpath sourceSets.main.runtimeClasspath
+  main = "br.com.codenation.DesafioApplicationRunner"
+}
+
+dependencies {
+	compile files('libs/submit-desafio-java-1.jar')
+	compile files('libs/desafio-java-1.jar')
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.7'
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.7'
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.9.7'
+	compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.9.7'
+	
+}

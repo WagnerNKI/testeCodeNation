@@ -1,0 +1,119 @@
+[ {
+  "id" : 1001,
+  "nome" : "Real Madrid",
+  "dataCriacao" : "1990-01-01",
+  "corUniformePrincipal" : "Branco",
+  "corUniformeSecundario" : "Azul",
+  "jogadores" : [ {
+    "id" : 500,
+    "idTime" : 1001,
+    "nome" : "Bruno",
+    "dataNascimento" : "1993-08-27",
+    "nivelHabilidade" : 10,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 501,
+    "idTime" : 1001,
+    "nome" : "Carlos",
+    "dataNascimento" : "1997-01-05",
+    "nivelHabilidade" : 8,
+    "salario" : 5000.0,
+    "capitao" : true
+  }, {
+    "id" : 101,
+    "idTime" : 1001,
+    "nome" : "Bruno1",
+    "dataNascimento" : "1993-08-27",
+    "nivelHabilidade" : 80,
+    "salario" : 7000.0,
+    "capitao" : false
+  }, {
+    "id" : 102,
+    "idTime" : 1001,
+    "nome" : "Bruno2",
+    "dataNascimento" : "1993-07-27",
+    "nivelHabilidade" : 10,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 103,
+    "idTime" : 1001,
+    "nome" : "Bruno3",
+    "dataNascimento" : "1993-06-27",
+    "nivelHabilidade" : 99,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 104,
+    "idTime" : 1001,
+    "nome" : "Bruno4",
+    "dataNascimento" : "1991-11-27",
+    "nivelHabilidade" : 99,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 105,
+    "idTime" : 1001,
+    "nome" : "Bruno5",
+    "dataNascimento" : "1993-04-27",
+    "nivelHabilidade" : 60,
+    "salario" : 7000.0,
+    "capitao" : false
+  }, {
+    "id" : 106,
+    "idTime" : 1001,
+    "nome" : "Bruno6",
+    "dataNascimento" : "1993-03-27",
+    "nivelHabilidade" : 98,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 107,
+    "idTime" : 1001,
+    "nome" : "Bruno7",
+    "dataNascimento" : "1993-02-27",
+    "nivelHabilidade" : 97,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 108,
+    "idTime" : 1001,
+    "nome" : "Bruno8",
+    "dataNascimento" : "1993-01-27",
+    "nivelHabilidade" : 97,
+    "salario" : 9000.0,
+    "capitao" : false
+  }, {
+    "id" : 109,
+    "idTime" : 1001,
+    "nome" : "Bruno9",
+    "dataNascimento" : "1992-12-27",
+    "nivelHabilidade" : 96,
+    "salario" : 9000.0,
+    "capitao" : false
+  }, {
+    "id" : 1010,
+    "idTime" : 1001,
+    "nome" : "Bruno10",
+    "dataNascimento" : "1992-11-27",
+    "nivelHabilidade" : 10,
+    "salario" : 2500.0,
+    "capitao" : false
+  }, {
+    "id" : 1011,
+    "idTime" : 1001,
+    "nome" : "Bruno10",
+    "dataNascimento" : "1991-11-27",
+    "nivelHabilidade" : 10,
+    "salario" : 2.5E+3,
+    "capitao" : false
+  } ]
+}, {
+  "id" : 1002,
+  "nome" : "Flamengo",
+  "dataCriacao" : "1970-01-01",
+  "corUniformePrincipal" : "Vermelho",
+  "corUniformeSecundario" : "Amarelo",
+  "jogadores" : [ ]
+} ]

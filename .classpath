@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="libs/desafio-java-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/noely/codenation/java-1/libs/jackson-core-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/noely/codenation/java-1/libs/jackson-databind-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/noely/codenation/java-1/libs/jackson-annotations-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/noely/codenation/java-1/libs/jackson-datatype-jsr310-2.9.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
